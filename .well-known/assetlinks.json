@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rahilmundkur.jugalbandhiself",
+    "sha256_cert_fingerprints": [
+      "37:76:AF:48:CF:1E:E7:67:F4:46:14:56:BD:9A:FD:11:0F:0E:96:B4:00:EF:1C:1A:F2:3A:CC:34:C3:4C:58:F4"
+    ]
+  }
+}]
